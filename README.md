@@ -1,1 +1,9 @@
 # AIS_VesselData_Exploration
+
+Contemporary Presence of Humpback Whales (Megaptera novaeangliae) and the Menhaden Reduction Commercial Fishing Fleet off Cape May, New Jersey 
+
+Heather Bariso & Melissa Laurino
+
+North Atlantic Humpback Whales (Megaptera novaeangliae) utilize high latitude areas such as Cape May, New Jersey as integral feeding grounds during their extensive annual migration. In New Jersey, their main prey source is the Atlantic Menhaden (Brevoortia tyrannus), the most important fish of the sea. In addition to marine mammals, this keystone species is also an important food source for sea birds and predatory fish, as well as the primary target species for the Omega Protein Reduction Fishing Fleet. Reduction landings are responsible for the majority of menhaden take off New Jersey. Whale sightings data from the Atlantic Ocean in 2019-2020 was utilized from the Cape May Whale Watch and Research Center (CMWWRC) database. This was combined with vessel Automatic Identification System (AIS) data from MarineCadastre.gov, a partnership between National Oceanic and Atmospheric Administration (NOAA) and the Bureau of Ocean Energy Management (BOEM). Data was manipulated and extracted using Python Pandas libraries and visualized using ArcGIS Pro. Vessel tracks in the Atlantic Ocean were represented using heat map density plots and overlayed with Humpback Whale sightings. A total of 76% (n=93) of whale sightings intersected with locations where reduction vessels were occurring and 14% (n=13) of these sightings observed whales lunge feeding. Migrating Humpback whales are important to consider when establishing quotas and locations permitted for reduction harvests of one of their primary food sources. 
+
+In Summary: Whales occur simultaneously with reduction boats and whales feed where they fish for the same prey. 
